@@ -1,0 +1,6 @@
+name            'rbenv_default_gems'
+description     'Install rbenv-default-gems plugin and provides an LWRP to manage default gems'
+version         '0.1.0'
+depends         'rbenv', '= 0.7.2'
+depends         'accumulator'
+conflicts       'rbenv', '>= 1.4.2'

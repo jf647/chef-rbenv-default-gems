@@ -1,0 +1,28 @@
+{
+  "sha": "f2cdde5d5ddd56999252c94ab76f56bc6671eede",
+  "sources": {
+    "rbenv_default_gems": {
+      "path": "."
+    },
+    "rbenv": {
+      "locked_version": "0.7.2",
+      "git": "https://github.com/fnichol/chef-rbenv.git",
+      "ref": "f2b53292e810dd2b43f6121f9958f5f29979dcb1"
+    },
+    "accumulator": {
+      "locked_version": "0.2.0"
+    },
+    "ruby_build": {
+      "locked_version": "0.8.0"
+    },
+    "java": {
+      "locked_version": "1.11.6"
+    },
+    "windows": {
+      "locked_version": "1.10.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    }
+  }
+}
